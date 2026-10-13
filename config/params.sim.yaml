@@ -1,0 +1,15 @@
+hsv_filter_node:
+  ros__parameters:
+    use_sim_time: true
+    min_h: 0
+    max_h: 0
+    min_s: 213
+    max_s: 255
+    min_v: 0
+    max_v: 255
+
+obstacle_detector_node:
+  ros__parameters:
+    use_sim_time: true
+    limit_distance: 1.0
+    inversion: -1
