@@ -22,7 +22,6 @@ El sistema desacopla la percepción visual y sensorial mediante nodos independie
 - [Gestión de Parámetros y Remapeos](#-gestión-de-parámetros-y-remapeos)
 - [Compilación y Construcción](#-compilación-y-construcción)
 - [Guía de Ejecución y Launchers](#-guía-de-ejecución-y-launchers)
-- [Autores](#-autores)
 
 ---
 
@@ -212,10 +211,3 @@ Para depuración aislada de subsistemas:
   # En robot real
   ros2 launch follow_ball obstacle.detector.launch.py
   ```
-
----
-
-## 👥 Autores
-
-Desarrollado para la práctica de seguimiento de pelota reactivo mediante VFF en **ROS 2**.
-- **Autor / Grupo:** [@usuario](https://github.com/usuario)
